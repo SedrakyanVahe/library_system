@@ -20,10 +20,6 @@
 
 ## Example
 
-```
-![python3.py](https://ibb.co/X3cpQKL)
- 
-```
 
 ## Built with
 
