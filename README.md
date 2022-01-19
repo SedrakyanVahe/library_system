@@ -17,10 +17,6 @@
 #### cd library_system
 #### python3 main.py
 
-
-## Example
-
-
 ## Built with
 
 * python
