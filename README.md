@@ -1,6 +1,6 @@
 # Library Management system
 
-#### This programm can help you read and save books which do you like
+#### This programm can help you manage your books
 
 ## Tools
 
@@ -13,6 +13,9 @@
 #### git clone https://github.com/SedrakyanVahe/library_system.git
 
 ## Running
+
+#### Run XAMPP
+#### Open phpMyAdmin and do following commands from 'sql_commands.txt' file
 
 #### cd library_system
 #### python3 main.py
